@@ -89,8 +89,4 @@ This is a local hackathon MVP, not a hosted production service. It does not incl
 - **Run guided demo** in the workspace for the reproducible token-claims scenario.
 - GitHub Actions runs the core backend checks and validates the browser script syntax on pushes and pull requests.
 
-## Inspiration
-
-- [LORE — Living Organizational Record Engine](https://devpost.com/software/lore-living-organizational-record-engine?utm_source=chatgpt.com) and the friend’s [LORE GitLab project](https://gitlab.com/gitlab-community/community-projects/2026-02-ai-hackathon/35153311) informed the lifecycle memory and decision validation ideas. This implementation uses its own schema, code, and UI.
-- [UpRabbit — Collaborative Knowledge Building with Agents](https://devpost.com/software/thought-visualized?utm_source=chatgpt.com)
-- [Wand — A live agent that sees, browses, and clicks with you](https://devpost.com/software/wand-a-live-agent-that-sees-browses-and-clicks-with-you)
+ou](https://devpost.com/software/wand-a-live-agent-that-sees-browses-and-clicks-with-you)
