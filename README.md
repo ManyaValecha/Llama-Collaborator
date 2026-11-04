@@ -43,9 +43,9 @@ Llama-Collaborator brings together three complementary intelligence layers:
 
 | Intelligence Layer | Inspiration | Our Implementation |
 |---|---|---|
-| Engineering Memory | LORE | Intelligent routing, specialized agents and persistent project knowledge |
-| Adaptive Intelligence | UpRabbit | Developer profiling, misconception detection and dynamic explanations |
-| Multimodal Interaction | Wand | Screenshot understanding, voice, browser research and approved actions |
+| Engineering Memory | Llama-Collaborator | Intelligent routing, specialized agents and persistent project knowledge |
+| Adaptive Intelligence | Llama-Collaborator | Developer profiling, misconception detection and dynamic explanations |
+| Multimodal Interaction | Llama-Collaborator | Screenshot understanding, voice, browser research and approved actions |
 
 These ideas are combined into one original product architecture rather than implemented as disconnected features.
 
