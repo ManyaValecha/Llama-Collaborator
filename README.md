@@ -9,7 +9,6 @@
   <img src="https://img.shields.io/badge/Track-Indie%20Developer-8B5CF6?style=for-the-badge" />
   <img src="https://img.shields.io/badge/AI-Meta%20Models-0668E1?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Architecture-Multi--Agent-0EA5E9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Under%20Development-orange?style=for-the-badge" />
 </p>
 
 ---
