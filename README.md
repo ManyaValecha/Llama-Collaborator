@@ -26,7 +26,7 @@ Through persistent memory, adaptive learning, multimodal understanding and evide
 From understanding an error screenshot to building an application, running tests and explaining the implementation, everything happens within one collaborative environment.
 
 > **Not just an AI that writes code. An AI engineering partner that understands, collaborates, builds, verifies and learns.**
-
+file:///Users/manyavalecha/Documents/Codex/2026-11-03/mak/outputs/Llama-Collaborator/index.html
 ## 💡 The Problem
 
 Modern AI coding assistants are powerful, but several challenges remain:
